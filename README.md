@@ -33,9 +33,11 @@
 <div>
   <h3>🤝🏻 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/sarinaemadi/" rel="nofollow">
-  <img width="35px" height="35px" src="https://camo.githubusercontent.com/d5c6417453009a135bfe449d2b4c9aa1b36088c412da500be1026212629ab41f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" >
+  <img width="35px" height="35px" src="https://camo.githubusercontent.com/d5c6417453009a135bfe449d2b4c9aa1b36088c412da500be1026212629ab41f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank">
 </a>
 </div>
+
+
 
 <!--
 **sarinaem/sarinaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
