@@ -7,7 +7,7 @@
 
 
 <div>
-  <h3>My Experience</h3>
+  <h3>My Skill</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 </div>
