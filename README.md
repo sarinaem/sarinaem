@@ -20,19 +20,26 @@
 
 <hr />
 
-
-- 🌱 I’m currently learning React
-- 📫 How to reach me: sarinaem75@gmail.com
-- ⚡ Fun fact: I am curious.
+<h3>👨🏻‍💻 About Me</h3>
+<p>- 🎓 Studying Computer Science</p>
+<p>- 🔭  I’m a Front-end Developer</p>
+<p>- 🌱 I’m currently learning React</p>
+<p>- ⚡ Fun fact: I am curious.</p>
+<p>- 📫 How to reach me: sarinaem75@gmail.com</p>
 
 
 <hr />
 
 <div>
   <h3>🌐 Let's Connect:</h3>
-<a href="https://www.linkedin.com/in/sarinaemadi/" rel="nofollow">
-  <img width="50px" height="50px" src="https://camo.githubusercontent.com/d5c6417453009a135bfe449d2b4c9aa1b36088c412da500be1026212629ab41f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
+  <div>
+  <a href="https://www.linkedin.com/in/sarinaemadi/" rel="nofollow">
+  <img width="35px" height="35px" src="https://camo.githubusercontent.com/d5c6417453009a135bfe449d2b4c9aa1b36088c412da500be1026212629ab41f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" >
 </a>
+ <a href="mailto:sarinaem75@gmail.com">
+   <img src="https://camo.githubusercontent.com/c909a57cb8f99e2af1780b9107d7dca60a8538b006c4d4a77baffc8d126c1845/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3130302f3030303030302f676d61696c2e706e67" width="50" data-canonical-src="https://img.icons8.com/plasticine/100/000000/gmail.png" style="max-width: 100%;" />
+ </a>
+  </div>
 </div>
 
 <!--
