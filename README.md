@@ -23,7 +23,7 @@
 <h3>👨🏻‍💻 About Me</h3>
 <p>- 🎓 Studying Computer Science</p>
 <p>- 🔭  I’m a Front-end Developer</p>
-<p>- 🌱 I’m currently learning React</p>
+<p>- 🌱 I’m currently learning Next.js and TypeScript</p>
 <p>- ⚡ Fun fact: I am curious.</p>
 <p>- 📫 How to reach me: sarinaem75@gmail.com</p>
 
