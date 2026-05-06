@@ -14,7 +14,7 @@
 <hr />
 <div>
   <h3>🛠 Tools & Others</h3>
-<img src="[https://skillicons.dev/icons?i=github,figma](https://skillicons.dev/icons?i=react,nextjs,mui,sass,tailwind,chakra,github,figma)" />
+<img src="https://skillicons.dev/icons?i=github,figma" />
 
 </div>
 
